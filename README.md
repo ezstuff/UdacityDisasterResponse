@@ -17,3 +17,8 @@
 ![Image2](https://github.com/shikharsharma23/UdacityDisasterResponse/blob/master/screenshot/Picture%202.png)
 ![Image3](https://github.com/shikharsharma23/UdacityDisasterResponse/blob/master/screenshot/Picture%203.png)
 ![Image4](https://github.com/shikharsharma23/UdacityDisasterResponse/blob/master/screenshot/Picture%204.png)
+
+
+data - process.py - processes etl data
+app/run.py - app to run
+models.train_classifier.py : trains classifier
